@@ -33,7 +33,7 @@ if(modo == "F"){
         else{
             console.log("Eso no es un número...");
         }
-        console.log("Fallaste, te quedan " , (3 - parseInt(i)) , "oportunidades. " , numero , "no es el número");
+        console.log("Fallaste, te quedan " , (5 - parseInt(i)) , "oportunidades. " , numero , "no es el número");
     }
 }
 
